@@ -1,2 +1,3 @@
-# calories-calc
-a new project for calculating calories by scan.
+# project AI
+a new project for chess game in flutter.
+
